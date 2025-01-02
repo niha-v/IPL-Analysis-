@@ -1,4 +1,4 @@
-# Indian Premier League (IPL) - Data anlysis
+# Indian Premier League (IPL) - Data analysis
 In this project I've analysed IPL dataset using Python. The dataset ranges from year 2008 to 2020.
 Cricket is one of the most popular sports in India and the most viewed sport too. As IPL is played mostly between April - May.
 
